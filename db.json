@@ -1,0 +1,327 @@
+{
+   "Livro" : [ 
+        {
+           "id": 1,
+           "nome": "O Jardim Secreto",
+           "genero": "Literatura infantil",
+           "autor_a": "Frances Hodgson Burnett",
+           "pais": "Noruega",
+           "lancamento": "Agosto de 1911",
+           "editora": "Frederick A. Stokes",
+           "total_de_paginas": 375,
+           "valor": "R$ 38,50"
+        },
+
+        {
+           "id": 2,
+           "nome": "O Pequeno Príncipe",
+           "genero": "Literatura Infanto-Juvenil, Novela",
+           "autor_a": "Antoine de Saint-Exupéry",
+           "pais": "França",
+           "lancamento": "1943",
+           "editora": "Éditions Gallimard",
+           "total_de_paginas": 96,
+           "valor": "R$ 24,90"
+        },
+
+        {
+           "id": 3,
+           "nome": "Orgulho e Preconceito",
+           "genero": "Romance, drama",
+           "autor_a": "Jane Austen",
+           "pais": "Reino Unido",
+           "lancamento": "28 de janeiro de 1813",
+           "editora": "T. Egerton, Whitehall",
+           "total_de_paginas": 278,
+           "valor": "R$ 14,90"
+        }, 
+
+        {
+           "id": 4,
+           "nome": "Diário de uma Paixão",
+           "genero": "Romance",
+           "autor_a": "Nicholas Sparks",
+           "pais": "Estados Unidos",
+           "lancamento": "1 de outubro de 1996",
+           "editora": "Warner Books",
+           "total_de_paginas": 224,
+           "valor": "R$ 28,90"
+        },
+
+        {
+           "id": 5,
+           "nome": "O Príncipe e o mendigo",
+           "genero": "Romance, Literatura infantil, Literatura fantástica",
+           "autor_a": "Mark Twain",
+           "pais": "Estados Unidos",
+           "lancamento": "1881 (Canadá), 1882 (EUA)",
+           "editora": "Relógio D'Água, Civilização, Vega",
+           "total_de_paginas": 218,
+           "valor": "R$ 23,20"
+        },
+        
+        {
+           "id": 6,
+           "nome": "A Ilha Misteriosa",
+           "genero": "Romance, Ficção científica, Ficção de aventura, Romance científico",
+           "autor_a": "Júlio Verne",
+           "pais": "França",
+           "lancamento": "1873-1875",
+           "editora": "A. Editora",
+           "total_de_paginas": 416,
+           "valor": "R$ 28,90"
+        },
+
+        {
+           "id": 7,
+           "nome": "O Hobbit",
+           "genero": "Fantasia Literatura infantojuvenil",
+           "autor_a": "J.R.R. Tolkien",
+           "pais": "Reino Unido",
+           "lancamento": "21 de setembro de 1937",
+           "editora": "George Allen & Unwin",
+           "total_de_paginas": 310,
+           "valor": "R$ 49,90"
+        },
+
+        {
+           "id": 8,
+           "nome": "As Crônicas de Nárnia",
+           "genero": "Fantasia Aventura",
+           "autor_a": "C. S. Lewis",
+           "pais": "Reino Unido",
+           "lancamento": "1950 - 1956",
+           "editora": " Martins Fontes, Editorial Presença",
+           "total_de_paginas": 752,
+           "valor": "R$ 53,50"
+        },
+
+        {
+           "id": 9,
+           "nome": "Harry Potter e a Pedra Filosofal",
+           "genero": "Aventura Fantasia",
+           "autor_a": "J. K. Rowling",
+           "pais": "Reino Unido",
+           "lancamento": "1998-2007 (no original) 26 de junho de 1997 – 21 de julho de 2007",
+           "editora": "Bloomsbury Publishing",
+           "total_de_paginas": 208,
+           "valor": "R$ 25,90"
+        },
+
+        {
+           "id": 10,
+           "nome": "A Lista de Schindler",
+           "genero": " Romance, Romance histórico, Romance biográfico, Drama",
+           "autor_a": "Thomas Keneally",
+           "pais": "Austrália",
+           "lancamento": "1982",
+           "editora": "Hodder & Stoughton",
+           "total_de_paginas": 532,
+           "valor": "R$ 30,90"
+        },
+
+        {
+           "id": 11,
+           "nome": "A Arte da Guerra",
+           "genero": "Tratado, Não ficção",
+           "autor_a": "Sun Tzu",
+           "pais": "China",
+           "lancamento": 1772,
+           "editora": "Buzz",
+           "total_de_paginas": 160,
+           "valor": "R$ 35,90"
+        },
+
+        {             
+           "id": 12,
+           "nome": "O Signo dos Quatro",
+           "genero": "Romance de mistério",
+           "autor_a": "Arthur Conan Doyle",
+           "pais": "Reino Unido",
+           "lancamento": "fevereiro de 1890",
+           "editora": "Lippincott's Monthly Magazine",
+           "total_de_paginas": 141,
+           "valor": "R$ 18,78"
+        },
+
+        {
+          "id": 13,
+          "nome": "O Conde de Monte Cristo",
+          "genero": "Folhetim, romance, aventura",
+          "autor_a": "Alexandre Dumas",
+          "pais": "França",
+          "lancamento": "1844-1846",
+          "editora": "Journal des débats",
+          "total_de_paginas": 1301,
+          "valor": "R$ 48,93"
+       },
+
+       {
+          "id": 14,
+          "nome": "Mistério no Museu Imperial",
+          "genero": "Ficção, aventura, mistério",
+          "autor_a": "Ana Cristina Massa",
+          "pais": "Brasil",
+          "lancamento": "2003",
+          "editora": "Biruta",
+          "total_de_paginas": 168,
+          "valor": "R$ 27,00"
+       },
+       
+       {
+          "id": 15,
+          "nome": "Vinte Mil Léguas Submarinas",
+          "genero": "Ficção científica, fantasia",
+          "autor_a": "Júlio Verne",
+          "pais": "França",
+          "lancamento": "20 de março de 1869, 1869",
+          "editora": "Moderna",
+          "total_de_paginas": 456,
+          "valor":  "R$ 50,32"
+       },
+
+       {
+          "id": 16,
+          "nome": "Como Viver Para Sempre",
+          "genero": "Ficção, aventura, fantasia",
+          "autor_a": " Colin Thompson",
+          "pais": "Austrália",
+          "lancamento": "1995",
+          "editora": "Escarlate",
+          "total_de_paginas": 240,
+          "valor": "R$ 20,23"
+       },
+
+       {
+          "id": 17,
+          "nome": "O Milagre",
+          "genero": "Romance de amor, História de fantasma, Ficção científica",
+          "autor_a": "Nicholas Sparks",
+          "pais": "Estados Unidos",
+          "lancamento": "1 de outubro de 1996",
+          "editora": "Warner Books",
+          "total_de_paginas": 326,
+          "valor": "R$ 28,98"
+       },
+
+       {
+          "id": 18,
+          "nome": "Harry Potter e a Câmara Secreta",
+          "genero": "Romance, Literatura fantástica, Bildungsroman, Alta fantasia, Ficção de aventura",
+          "autor_a": "J. K. Rowling",
+          "pais": "Reino Unido",
+          "lancamento": "2005",
+          "editora": "Bloomsbury Publishing",
+          "total_de_paginas": 251,
+          "valor": "R$ 27,90"
+       },
+
+       {
+          "id": 19,
+          "nome": "O Segredo da Plataforma 13",
+          "genero": " Literatura infanto-juvenil",
+          "autor_a": "Eva Ibbotson",
+          "pais": "Áustria",
+          "lancamento": "1 de janeiro de 2002",
+          "editora": "Rocco",
+          "total_de_paginas": 157,
+          "valor": "R$ 29,00"
+       },
+
+       {
+          "id": 20,
+          "nome": "Querido John",
+          "genero": "Romance, Romance de amor, Ficção",
+          "autor_a": "Nicholas Sparks",
+          "pais": "Estados Unidos",
+          "lancamento": "7 de outubro de 2007",
+          "editora": "Warner Books",
+          "total_de_paginas": 263,
+          "valor": "R$ 28,00"
+       }
+   ],
+
+ "produtos": [ 
+      {
+         "id": 1,
+         "nome_produto": "Lápis de Cor, Faber-Castell, EcoLápis Supersoft, 24 Cores",
+         "formas_de_pagamento": "Cartões de crédito e débito, Pix",
+         "valor": "R$ 40,00",
+         "promocao": "Compre 2 e pague R$ 34,90 (cada)"
+       },
+
+       {
+          "id": 2,
+          "nome_produto": "Kit Lettering BIC com 13 itens: 6 Canetas Brush Pen, 1 Marca Texto, 2 Intensity Média, 2 Intensity Fina, 2 Lápis Evolution com Borracha, 971080 - CX 13 UN",
+          "formas_de_pagamento": "Cartões de crédito e débito, Pix",
+          "valor": "R$ 56,30",
+          "promocao": "Compre 2 e pague R$ 45,90 (cada)"
+        },
+
+        {
+          "id": 3,
+          "nome_produto": "Caderno Inteligente, CIA52096, A5, Poeira Das Estrela, Multicolorido, 155x220 mm, 80 Folhas",
+          "formas_de_pagamento": "Cartões de crédito e débito, Pix",
+          "valor": "R$ 69,30",
+          "promocao": "Compre 2 e pague R$ 58,90 (cada)"
+        },
+
+        {
+          "id": 4,
+          "nome_produto": "Tesoura 180 mm, Tilibra, Comfort Grip, T416, Cinza, 314781",
+          "formas_de_pagamento": "Cartões de crédito e débito, Pix",
+          "valor": " R$ 15,75",
+          "promocao": "Compre 2 e pague R$ 9,70 (cada)"
+        },
+
+        {
+          "id": 5,
+          "nome_produto": "Cola em Bastão, Faber-Castell, SM/8110, 10g",
+          "formas_de_pagamento": "Cartões de crédito e débito, Pix",
+          "valor": "R$ 6,60",
+          "promocao": "Compre 3 e pague R$ 3,70 (cada)"
+        }
+ ],
+
+        "livrarias": [
+          {
+             "id": 1,
+             "nome": "Livraria Saraiva",
+             "localizacao": "Av. Abílio Augusto Távora, 1111 - Luz, Nova Iguaçu - RJ, 26255-620",
+             "horario_de_funcionamento": "Seg a Sáb 10:00–22:00 e Dom 13:00-21:00",
+             "contato": "(21) 3900-7153"
+          },
+
+          {
+             "id": 2,
+             "nome": "Livraria da Travessa",
+             "localizacao": "Rua 7 de Setembro, n. 54, Centro Rio de Janeiro 20050-009",
+             "horario_de_funcionamento": "Seg a Sex, das 9:00h às 19:00h (exceto feriados) e sábados, das 8:00h às 14:00h" ,
+             "contato": "tel. (21) 2508.6872 ou (21) 97220.9401"
+          },
+
+          {
+             "id": 3,
+             "nome": "Livraria Cultura",
+             "localizacao": "Av. Paulista, 2073, Pavimento Térreo, Loja Cinema Astor, Sala Monteiro Lobato, Bela Vista, São Paulo - SP - Brasil CEP 01310-300" ,
+             "horario_de_funcionamento": "Seg a Sáb 10:00–22:00 e Dom 13:00-21:00",
+             "contato": "(11) 3056.4320"
+          },
+
+          {
+             "id": 4,
+             "nome": "Livraria Leitura" ,
+             "localizacao": "Av. das Américas, 15500 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-702",
+             "horario_de_funcionamento": "Seg a Sáb 10:00–22:00 e Dom 13:00-20:00",
+             "contato": "(21) 2442-9579"
+          },
+
+          {
+             "id": 5,
+             "nome": "Livrarias Curitiba",
+             "localizacao": "Rua João Maranho, 58 – Bairro Sítio Cercado – CEP 81.925-267",
+             "horario_de_funcionamento": "Seg a Sex, das 9:00h às 19:00h (exceto feriados) e sábados, das 8:00h às 14:00h" ,
+             "contato": "(41) 3330-5191"
+          }
+    ]
+ }
